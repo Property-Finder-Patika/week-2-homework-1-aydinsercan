@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//ARITHMETIC OPERATIONS
 func main() {
 
 	values := []int{0, 1, 2, 3, 4, 5, 6}

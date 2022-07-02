@@ -11,6 +11,7 @@ func main() {
 
 }
 
+//Basic type conversions
 func func1() {
 	x := 100
 	y := 2.5

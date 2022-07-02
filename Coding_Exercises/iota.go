@@ -9,6 +9,7 @@ const (
 	barGroup
 )
 
+//IOTA
 var groups = [...]string{fooGroup: "foo", barGroup: "bar"}
 
 var xGroups = map[baseGroup]string{fooGroup: "foo", barGroup: "bar"}

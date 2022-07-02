@@ -4,6 +4,7 @@ import "fmt"
 
 var bbb = "test2"
 
+//SCOPE
 func testGlobal() {
 	fmt.Println(bbb)
 }
